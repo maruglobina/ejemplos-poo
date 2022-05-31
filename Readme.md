@@ -1,5 +1,6 @@
-## Ejercicio 1
-
+## Ejemplos de POO
+intro...
+### Ejercicio 1: Clases
 
 1) Escribir una clase Punto que complete la de esta entrada, para que además de los constructores y de los métodos getX() 
 y getY(), y distancia(), contenga también los siguientes métodos:
@@ -22,7 +23,7 @@ como literales con los valores de los atributos, en el orden requerido.
 2) Armar un método que dado un array de puntos, encontrar los puntos más próximos entre si.
 
 
-## Ejercicio 2
+### Ejercicio 2: Clases
 
 Utilizando la clase Punto del ejercicio anterior, escribe una clase Polígono. Esta clase tiene como atributo un array de objetos Punto. Se consideran adyacentes los objetos Punto que estén en celdas consecutivas del array y los puntos que están en la primera y última celda. Esta clase ha de tener los siguientes métodos:
 
