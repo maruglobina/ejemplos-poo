@@ -11,12 +11,13 @@ Una pequeña ayuda: El método toString() concatena los paréntesis y comas
 como literales con los valores de los atributos, en el orden requerido.
 
 ````
+ y
  ^
 4|              *(8,4)
 3|          *(6,3)
 2|   *(2,2)
 1|   *(2,1)
- |------------------------>
+ |------------------------> x
  0 1 2 3 4 5 6 7 8 9 10 11
  ```` 
      
