@@ -20,6 +20,8 @@ como literales con los valores de los atributos, en el orden requerido.
  |------------------------> x
  0 1 2 3 4 5 6 7 8 9 10 11
  ```` 
+
+
      
 2) Armar un método que dado un array de puntos, encontrar los puntos más próximos entre si.
 
